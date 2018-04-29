@@ -6,9 +6,10 @@
 
 ### powershell
 
-关于windows powershell
+关于windows powershell,自定义提示符
 
 ### bash, sh
 
 unix 环境shell脚本
-1.23
+
+

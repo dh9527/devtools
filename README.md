@@ -6,7 +6,7 @@
 
 ### powershell
 
-关于windows powershell,自定义提示符
+关于windows powershell,自定义提示符,验证powershell
 
 ### bash, sh
 

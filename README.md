@@ -22,8 +22,6 @@ function chcpencoding {
     }
 	
     process {
-        # If $_.name.toLower().endsWith(".exe")
-        # 输出 Write-Output $_
         $_
     }
 	

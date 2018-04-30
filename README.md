@@ -34,9 +34,9 @@ function chcpencoding {
 }
 ```
 
-> 用法：
-> git log --stat | chcpencoding
-> git $args | chcpencoding
+> 用法：  
+git log --stat | chcpencoding  
+git $args | chcpencoding
 
 ### bash, sh
 

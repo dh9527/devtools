@@ -32,14 +32,22 @@ function chcpencoding {
 }
 ```
 
-> 用法：  
-git log --stat | chcpencoding  
+```text
+
+用法 Usage：
+
+git log --stat | chcpencoding
 git $args | chcpencoding
+
+```
 
 ### bash, sh
 
 unix 环境shell脚本
 
 ### TODO:
+
+
+
 
 

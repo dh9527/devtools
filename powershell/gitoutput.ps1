@@ -5,7 +5,7 @@
 #>
 function chcpencoding {
 
-	begin {
+    begin {
         [System.Console]::OutputEncoding=[System.Text.Encoding]::GetEncoding(65001)
     }
 	

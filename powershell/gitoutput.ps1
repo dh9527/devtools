@@ -3,7 +3,7 @@
 # 此问题解决git commit -m 中文备注信息 => 查看git log $args中文乱码的问题
 # 不直接profile定义OutputEncoding为utf8是因为powershell提示信息将变为英文，明显不是想要的
 #>
-function chcpencoding {
+function chcpEncoding {
 
     begin {
         [System.Console]::OutputEncoding=[System.Text.Encoding]::GetEncoding(65001)
